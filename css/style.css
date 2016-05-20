@@ -17,7 +17,7 @@ a img:hover {
 	opacity:0.8;
 }
 .background {
-	background:url(../images/bg-background.jpg) no-repeat center top;
+	background:url(../images/bg-background.png) no-repeat center top;
 }
 p a:hover {
 	color:#388070!important;
@@ -246,7 +246,7 @@ a#logo {
 	padding:2px;
 }
 .body .home div div div span a {
-	background:url(../images/bullet.jpg) no-repeat 105px center #faf2c6;
+	background:url(../images/bullet.png) no-repeat 105px center #faf2c6;
 	color:#8d7c20;
 	display:block;
 	float:none;
@@ -260,7 +260,7 @@ a#logo {
 	text-transform:uppercase;
 }
 .body .home div div div span a:hover {
-	background:url(../images/bullet.jpg) no-repeat 105px center #f4ed9f;
+	background:url(../images/bullet.png) no-repeat 105px center #f4ed9f;
 	color:#8d7c20;
 	display:block;
 	float:none;
